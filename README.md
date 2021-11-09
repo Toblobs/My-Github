@@ -1,6 +1,9 @@
 # README
 
 --------
+
+About Me, Goals, Friends and Collabs, More Socials
+
 About Me
 ========
 
@@ -22,3 +25,9 @@ Friends and Collabs
 
 @suchasaltylemon
 @ab2kj
+
+------------
+More Socials
+============
+
+Coming soon!
